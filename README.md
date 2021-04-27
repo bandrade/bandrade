@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/brunobalintdeandrade/)](https://www.linkedin.com/in/https://www.linkedin.com/in/brunobalintdeandrade/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bruno.balint@gmail.com)](mailto:bruno.balint@gmail.com)
 <br />
-<br />
+
 
 Hi, I'm Bruno Andrade
 
@@ -14,7 +14,8 @@ Hi, I'm Bruno Andrade
 <a href="https://github.com/bandrade/bandrade">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bandrade&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Bruno's GitHub Stats" />
 </a>
-
+<br />
+<br />
   <img align="center" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=bandrade&layout=compact&theme=gotham&bg_color=00000000&langs_count=10&hide=jupyter%20notebook,tex,css,php" />
 
 ## Projects
