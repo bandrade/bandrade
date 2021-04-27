@@ -1,16 +1,22 @@
-### Hi there 👋
+## Hi there, I'm Bruno Balint de Andrade 👋
 
-<!--
-**bandrade/bandrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/brunobalintdeandrade/">
+  <img align="left" alt="Bruno Andrade | LinkedIn" width="20px" src="https://raw.githubusercontent.com/terrytangyuan/terrytangyuan/master/imgs/linkedin.svg" />
+</a>
+<a href="http://twitter.com/bruno_balint">
+  <img align="left" alt="Bruno Andrade | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+<br />
+
+Hi, I'm Bruno Andrade
+
+- 🔭 I’m currently working on [operator-lifecycle-manager](https://github.com/operator-framework/operator-lifecycle-manager)
+
+
+
+<a href="https://github.com/bandrade/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.bandrade.vercel.app/api?username=anuraghazra&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Bruno Andrades's github stats" />
+</a>
