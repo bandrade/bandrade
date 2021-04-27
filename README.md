@@ -15,7 +15,7 @@ Hi, I'm Bruno Andrade
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=bandrade&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Bruno's GitHub Stats" />
 </a>
 
-  <img  src ="https://github-readme-stats.vercel.app/api/top-langs/?username=bandrade&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=10&hide=jupyter%20notebook,tex,css,php" />
+  <img align="center" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=bandrade&layout=compact&theme=gotham&bg_color=00000000&langs_count=10&hide=jupyter%20notebook,tex,css,php" />
 
 ## Projects
 
